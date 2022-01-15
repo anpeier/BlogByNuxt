@@ -13,7 +13,7 @@
   "dependencies": {
     "nuxt": "^2.0.0",
     "storyblok-nuxt": "^1.2.0",
-    "marked": "^0.8.2"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "css-loader": "^3.5.2",
